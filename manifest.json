@@ -1,19 +1,25 @@
 {
-  "format": "whimsy-copy-insert-v1+gzip+base64-parts",
+  "schema": 2,
   "version": "59.69.961",
+  "format": "whimsy-copy-insert-v1+gzip+base64-parts",
+  "rolloutPercentage": 100,
+  "rolloutSeed": "R524G-59.69.961",
+  "minShellVersionCode": 5152,
   "parts": [
-    "parts/001.txt",
-    "parts/002.txt",
-    "parts/003.txt",
-    "parts/004.txt",
-    "parts/005.txt",
-    "parts/006.txt",
-    "parts/007.txt",
-    "parts/008.txt",
-    "parts/009.txt",
-    "parts/010.txt",
-    "parts/011.txt"
+    "releases/59.69.961/parts/001.txt",
+    "releases/59.69.961/parts/002.txt",
+    "releases/59.69.961/parts/003.txt",
+    "releases/59.69.961/parts/004.txt",
+    "releases/59.69.961/parts/005.txt",
+    "releases/59.69.961/parts/006.txt",
+    "releases/59.69.961/parts/007.txt",
+    "releases/59.69.961/parts/008.txt",
+    "releases/59.69.961/parts/009.txt",
+    "releases/59.69.961/parts/010.txt",
+    "releases/59.69.961/parts/011.txt"
   ],
   "patchSha256": "5d83620f2e38d82c70c8c810a75c872d4ec18c768a5b727cc5476bf56cc92758",
-  "resultSha256": "ea2454a1da2ea49208da6f19d4e72ed9c569835e2d14dc02d428ae60461afb2e"
+  "resultSha256": "ea2454a1da2ea49208da6f19d4e72ed9c569835e2d14dc02d428ae60461afb2e",
+  "signature": "GXgkL/wnd+8Y8l6uvhkK+vQTTzMWp7etgQMKgvNrdiGcbThzqwOSaiIruV9lpvqy7Z5TZ8S8VjGwhVfAZxFZI7rxBfa7sQyLWh9TrWhOmOFyg0HdjR9txTtQyax8GpgzE4sT9Z2MzDa3PUYXToXoMFpLOQkxYv+iv5Z34ybuEM0AdzVOT2JxEdkPDmdmOdx5+hjsfclb9EAfn30AjEk+KL3orLavqhnGdKFVIM1iEBNiIlNRVdhuIKsIE5SOYcKfcFXQNKoM1oKVJ7kqZcuGYM98z9lhbs/c5znmy0JIdwEnbwTQ69VIGavuHq2/udtSXiB+JtN4X+HHWJ7GI/xja8wZLXUYSL+OBtlIY5ZkzGPNUz6mvzOjIXR1/kCjL3GMPs1N/0Cv+HeixEprGnUudnB1Xn6WUwJFCPLD23ClcVoU2Db+ch5y2ZRvoM7F7gqdtEtROIMdbeXRR6p8MlSa6B9R8q2vARJGLEDoJ5M55TfJdXZ8LuiYilRhy/upwOEEEegUp0wYXEfr277ru8cGVyOwqmmyE8Eg43SyqLI+1uT/ZVEQBQcn8gUpagUTbur7O2toNAQYm11fh+iW9gUK+Nd6hs8VXWV0839F6ts35NituAD3SV3wAreCfJ3vcsKh2Y2L4i5R0MoCE/Oi0uxXJc04mxz6zhLm9FFRPS2AZV0=",
+  "signatureAlgorithm": "SHA256withRSA"
 }
