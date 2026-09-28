@@ -1,16 +1,16 @@
 {
   "schema": 2,
-  "version": "59.69.962",
+  "version": "59.69.963",
   "format": "whimsy-copy-insert-v1+gzip+base64-parts",
   "rolloutPercentage": 100,
-  "rolloutSeed": "R524H-59.69.962",
+  "rolloutSeed": "R524I-59.69.963",
   "minShellVersionCode": 5152,
   "parts": [
-    "releases/59.69.962/parts/001.txt",
-    "releases/59.69.962/parts/002.txt"
+    "releases/59.69.963/parts/001.txt",
+    "releases/59.69.963/parts/002.txt"
   ],
-  "patchSha256": "365b470273e0dab966eda5fccf11668b28b39540e469603945c3595c1d168049",
-  "resultSha256": "f2eb36d6e6e20ba9ea81c575e919cd123cbf4e10a01238fdebed10da1ab27aa9",
-  "signature": "aZVR41J0xAkp4HRPW0OBndnPpDvOGbhuBf7k1fO6y1sDZa9Q7l5IZbti8zhpkshlNZEyrTlAuBJF6BFSGdTGnZHApDCSLEjD4rGANkVkU17436xwpO1Va7qDqN0T2+cFkTviXbMmGi1u3MCXvpcZ32kRB65wQtIly0K77PAdtYe0XensCGOzTHqHBXN5B7g/lItyaQEiR/w22LCEGyYUBt0mVM/H41C1aKtihi+tp/D1YfQp5vrcnPgEhO+lpP1PuOR9s092Lgb2akMvxv+pQXiWr5/iaI8tRhcB/FGRKweDdJ/aKqeDuoKEygBYnlwAaE+PFYIOa90R1r5JOeo7uhTWAhaVGaMuhzO3FZQ4RZO6TgzXLIRCgpUqai0aQXa49VcHrkyE5LtAJWfWg8Jvrd02ZwSQlkllz6SYrE0R5fpU4oXtJtzwb9XJxzSNF760YF6I4Qx8h/j9xGKqHwjg3W+N8aZtYonTNzrKKgxALPGmUh94B66xPnGQ30Q3ltjYSacxcIDBEkZDL/r4V1OeGN4xp4lEG6jT68i0HDFeHvXd8+tOOc6KR6JaOm57NOtBLfPaJyEl9gtokj+J/SiCuczcnCLiMo5RtpNXavQDbwFknANYJ4T0zB5mFxtZ5yQ3Va6EjMms4HcXCJ0Mko0o46+1sgqaCaz2rf2Z69ZZkAI=",
+  "patchSha256": "3da6e5538081994024ef58270821ede774c6c5285b30b266832b2fc8b3f6f91f",
+  "resultSha256": "90b1e8f13ce7b231032e37a324ee1a3914ea0132d3c33a98c4377a7069302910",
+  "signature": "WnR/GEz+nd8XshhYF+sBhBHjFgsWxtIVs0NIPS9zLJJQxJ+TShrXhlnSLU3WtvtaFhC1JCs6R9pUph5fWFPf3pHyGYg2gxq+qfXEXbzVxpVFDWB4UhITj/MNLLNFReLWVWuTDUcYb3wDDz0hBGJ/toQTHjHpm9nvnSnCD4tRfRw0nxzxnY+iE9w/LCnEeNibAScibrxUlhRbKa0b8yRlrl5vPSis7IIZ6p8M4GnstBairfxwwIwlnMi9+kpTii5rHC1upU6LIiB8tcnSvPN0daeEPraTlDUMbpaCMSzCXgE2zYaEZDV6KaDHzsH4bkXTUlw92c1G3WzFGoYgPmHjSYiaIHKPp5TPRnB4CtwVuy6rNsDdEoApEXN+4JgxVBEb5+nExCXWoMNmamKUIMEtGEFRooeRJIMqkP6r9o1WXTuCHRrOXMdc+2/ipF2xPT0ijOSgIjuSm1Ov9qaB6ZXKYkW+eFxT2oEGVnhLr9ii3KZJbKW8iIhBgUBuFHgrfTSO2qHUctDrJTpxW4X4aT+rC5PoyG+Jtrc0DXPXnVfWXYCI7GD4yjKo5XhyDxvgetHfQ5Teb9tVEA/8W9UAfFb6snpPucEdEU1HjFYWOpXnkYu2u/Dg3OfJ+KUgcaW095HfW1mlRIRR0DvldaGr9VfvKcGWsa/dN+s6UooyG+82yCk=",
   "signatureAlgorithm": "SHA256withRSA"
 }
