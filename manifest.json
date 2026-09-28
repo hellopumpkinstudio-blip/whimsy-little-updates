@@ -1,0 +1,19 @@
+{
+  "format": "whimsy-copy-insert-v1+gzip+base64-parts",
+  "version": "59.69.961",
+  "parts": [
+    "parts/001.txt",
+    "parts/002.txt",
+    "parts/003.txt",
+    "parts/004.txt",
+    "parts/005.txt",
+    "parts/006.txt",
+    "parts/007.txt",
+    "parts/008.txt",
+    "parts/009.txt",
+    "parts/010.txt",
+    "parts/011.txt"
+  ],
+  "patchSha256": "5d83620f2e38d82c70c8c810a75c872d4ec18c768a5b727cc5476bf56cc92758",
+  "resultSha256": "ea2454a1da2ea49208da6f19d4e72ed9c569835e2d14dc02d428ae60461afb2e"
+}
